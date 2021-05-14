@@ -1,4 +1,4 @@
-# lambda_php #
+# Lambdas with PHP #
 
 ## Description ##
 Writing AWS Lambda with PHP very easy
